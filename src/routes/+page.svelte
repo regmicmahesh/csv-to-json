@@ -21,6 +21,7 @@
 
 		outputData = result;
 	};
+	export const prerender = true;
 </script>
 
 <div class="main">
